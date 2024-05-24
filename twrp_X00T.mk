@@ -24,7 +24,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := X00T
-PRODUCT_NAME := omni_X00T
+PRODUCT_NAME := twrp_X00T
 PRODUCT_BRAND := asus
 PRODUCT_MODEL := ASUS_X00T
 PRODUCT_MANUFACTURER := asus
